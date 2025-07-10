@@ -50,9 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=right-git&show_icons=true&theme=tokyonight" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=right-git&theme=tokyonight" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=right-git&layout=compact&theme=tokyonight" />
 </div>
 
@@ -83,6 +80,8 @@
     <img src="https://img.shields.io/badge/Telegram-Right%20Decision%20IT-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=right-git&style=for-the-badge&color=blueviolet" alt="Profile views"/>
