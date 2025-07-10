@@ -57,8 +57,6 @@
 
 ---
 
-## ✨ Fun Animations
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" alt="Hi animation"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Bhd3Z1YnN2ZXA3YjJrNmN4cW9hY2V5ZjZ3dTg3dTExejI3Z2RrZiZjdD1z/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Rocket animation"/>
