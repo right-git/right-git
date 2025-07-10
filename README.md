@@ -1,3 +1,4 @@
+<!-- Cool animated header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+right-git!;Full+Stack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+profile!+%F0%9F%8E%89" alt="Typing SVG" />
 </h1>
@@ -59,7 +60,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" alt="Hi animation"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Bhd3Z1YnN2ZXA3YjJrNmN4cW9hY2V5ZjZ3dTg3dTExejI3Z2RrZiZjdD1z/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Rocket animation"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmI5N3V3Z2ZhYzJrZ3EydnRtdXp5ZGwxeGxwM2Q5N2JqM3Z5N2x6NSZjdD1z/l3q2K5jinAlChoCLS/giphy.gif" width="100" alt="Laptop animation"/>
 </p>
 
@@ -72,6 +72,17 @@
 </p>
 
 ---
+
+## 📝 Blogging & Socials
+
+<p align="center">
+  <a href="https://www.youtube.com/@right_decision_it">
+    <img src="https://img.shields.io/badge/YouTube-Right%20Decision%20IT-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://t.me/right_decision_it">
+    <img src="https://img.shields.io/badge/Telegram-Right%20Decision%20IT-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=right-git&style=for-the-badge&color=blueviolet" alt="Profile views"/>
